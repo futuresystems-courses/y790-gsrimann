@@ -1,0 +1,13 @@
+SSN:XY003
+Name:XYZ
+Age:27
+Recent Experiences:
+Disaster
+Patient's environment:
+Problems at home
+Patient's medical history:
+Depression
+Based on above, tests were done for:
+Anxiety
+Results of tests
+Anxiety is likely

@@ -1,0 +1,15 @@
+SSN:XYZ299
+Name:Jenny
+Age:40
+Recent Experiences:
+Failure at work/exam
+Relationship failure
+Patient's environment:
+Stressful workconditions
+Patient's medical history:
+Substance Abuse
+Family history of PTSD/Depression
+Based on above, tests were done for:
+Depression
+Results of tests
+Depression is likely

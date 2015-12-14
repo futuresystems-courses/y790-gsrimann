@@ -1,0 +1,13 @@
+SSN:XYZ018
+Name:Edmond
+Age:26
+Recent Experiences:
+Recent Combat Experience
+Patient's environment:
+Stressful workconditions
+Patient's medical history:
+Family history of PTSD/Depression
+Based on above, tests were done for:
+PTSD
+Results of tests
+No PTSD

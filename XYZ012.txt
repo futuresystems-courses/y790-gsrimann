@@ -1,0 +1,13 @@
+SSN:XYZ012
+Name:qawsed
+Age:44
+Recent Experiences:
+Mugging
+Patient's environment:
+Patient's medical history:
+Based on above, tests were done for:
+Anxiety
+Results of tests
+No PTSD
+No Anxiety
+No Depression

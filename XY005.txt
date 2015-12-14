@@ -1,0 +1,16 @@
+SSN:XY005
+Name:PQRS
+Age:37
+Recent Experiences:
+Recent Combat Experience
+Patient's environment:
+Constant exposure to trauma
+Stressful workconditions
+Patient's medical history:
+Substance Abuse
+Depression
+Based on above, tests were done for:
+PTSD
+Depression
+Results of tests
+PTSD is likely
